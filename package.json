@@ -1,6 +1,6 @@
 {
   "name": "lets-chat-cloudinary",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Cloudinary Storage plugin for Let's chat",
   "main": "lib/index.js",
   "repository": {
