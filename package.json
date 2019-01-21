@@ -1,0 +1,22 @@
+{
+  "name": "lets-chat-cloudinary",
+  "version": "0.0.2",
+  "description": "Cloudinary Storage plugin for Let's chat",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/i-mighty/lets-chat-cloudinary.git"
+  },
+  "author": {
+    "name": "Josiah Adegboye",
+    "email": "adeolathecrown@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/i-mighty/lets-chat-cloudinary/issues"
+  },
+  "homepage": "https://github.com/i-mighty/lets-chat-cloudinary",
+  "license": "MIT",
+  "dependencies": {
+    "cloudinary": "^1.13.2"
+  }
+}
